@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Aman 👋
+Final-year engineering student | Full Stack Developer (MERN) | AI ML Enthusiast
 
-<!--
-**AMANTOOP/AMANTOOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+- Languages: Java, Cpp, JavaScript, SQL
+- Developer Tools: Git, VS Code, Postman, Vercel
+- Technologies/Frameworks: React JS, NextJS, NodeJS, ExpressJS, MERN Stack, SocketIO, MySQL
 
-Here are some ideas to get you started:
+### 📌 Projects
+- Iodify Music player
+- Smart Stock
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aman-kumar-prasad-b1a605257/
+- Email: akprasad8486@gmail.com
